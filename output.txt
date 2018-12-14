@@ -1,0 +1,28 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51530:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\kipst\IdeaProjects\Assignment 11 Odds'd\out\production\Assignment 11 Odds'd" Main
+
+Scenario 1:  Expected result 0.500000
+Count of True   :49964
+Count of False  :50036
+Condition Reached 0.499640
+
+Scenario 2:  Expected result 0.700000
+Count of True   :70100
+Count of False  :29900
+Condition Reached 0.701000
+
+Scenario 3:  Expected result 0.250000
+Count of True   :25089
+Count of False  :74911
+Condition Reached 0.250890
+
+Scenario 4:  Expected result 0.037037
+Count of True   :3650
+Count of False  :96350
+Condition Reached 0.036500
+
+Scenario 5:  Expected result 0.277778
+Count of True   :27704
+Count of False  :72296
+Condition Reached 0.277040
+
+Process finished with exit code 0
